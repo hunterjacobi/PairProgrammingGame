@@ -1,0 +1,15 @@
+/Users/guccigod/Documents/Coding Foundations 127/codingFoundation/assignments/pairProgrammingGame/storyline/obj/Debug/net6.0/storyline.csproj.AssemblyReference.cache
+/Users/guccigod/Documents/Coding Foundations 127/codingFoundation/assignments/pairProgrammingGame/storyline/obj/Debug/net6.0/storyline.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guccigod/Documents/Coding Foundations 127/codingFoundation/assignments/pairProgrammingGame/storyline/obj/Debug/net6.0/storyline.AssemblyInfoInputs.cache
+/Users/guccigod/Documents/Coding Foundations 127/codingFoundation/assignments/pairProgrammingGame/storyline/obj/Debug/net6.0/storyline.AssemblyInfo.cs
+/Users/guccigod/Documents/Coding Foundations 127/codingFoundation/assignments/pairProgrammingGame/storyline/obj/Debug/net6.0/storyline.csproj.CoreCompileInputs.cache
+/Users/guccigod/Documents/Coding Foundations 127/codingFoundation/assignments/pairProgrammingGame/storyline/bin/Debug/net6.0/storyline
+/Users/guccigod/Documents/Coding Foundations 127/codingFoundation/assignments/pairProgrammingGame/storyline/bin/Debug/net6.0/storyline.deps.json
+/Users/guccigod/Documents/Coding Foundations 127/codingFoundation/assignments/pairProgrammingGame/storyline/bin/Debug/net6.0/storyline.runtimeconfig.json
+/Users/guccigod/Documents/Coding Foundations 127/codingFoundation/assignments/pairProgrammingGame/storyline/bin/Debug/net6.0/storyline.dll
+/Users/guccigod/Documents/Coding Foundations 127/codingFoundation/assignments/pairProgrammingGame/storyline/bin/Debug/net6.0/ref/storyline.dll
+/Users/guccigod/Documents/Coding Foundations 127/codingFoundation/assignments/pairProgrammingGame/storyline/bin/Debug/net6.0/storyline.pdb
+/Users/guccigod/Documents/Coding Foundations 127/codingFoundation/assignments/pairProgrammingGame/storyline/obj/Debug/net6.0/storyline.dll
+/Users/guccigod/Documents/Coding Foundations 127/codingFoundation/assignments/pairProgrammingGame/storyline/obj/Debug/net6.0/ref/storyline.dll
+/Users/guccigod/Documents/Coding Foundations 127/codingFoundation/assignments/pairProgrammingGame/storyline/obj/Debug/net6.0/storyline.pdb
+/Users/guccigod/Documents/Coding Foundations 127/codingFoundation/assignments/pairProgrammingGame/storyline/obj/Debug/net6.0/storyline.genruntimeconfig.cache
